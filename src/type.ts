@@ -34,7 +34,7 @@ declare module namespace {
         otherAcronyms: string[];
     }
 
-    export interface RootObject {
+    export interface CountyType{
         name: string;
         topLevelDomain: string[];
         alpha2Code: string;
