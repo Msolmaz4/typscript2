@@ -1,4 +1,4 @@
-declare module namespace {
+
 
     export interface Currency {
         code: string;
@@ -62,5 +62,5 @@ declare module namespace {
         independent: boolean;
     }
 
-}
+
 
